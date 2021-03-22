@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PropsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7ef3c626a4c833d4b84ee9068471196c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3a6b0c911eb23124c94db8a4125738e7, type: 3}
+  - {fileID: 21300000, guid: e55d57b28f1d95649870330ceb08ea92, type: 3}
+  - {fileID: 21300000, guid: 22915f5332429ba40b073cac38461e2c, type: 3}
+  - {fileID: 21300000, guid: 3b4ee678bbc112e4a9a744f727ce1863, type: 3}
+  - {fileID: 21300000, guid: 42fc57492c0949845a7cbb8f66dc745a, type: 3}
+  - {fileID: 21300000, guid: 832ced79a9978ce4eaa88d553f7a173f, type: 3}
+  - {fileID: 21300000, guid: 0b6c56e957944bd4c8d837371265d8a9, type: 3}
+  - {fileID: 21300000, guid: a4ff1ef9b914c924db2aba5c6e50276a, type: 3}
+  - {fileID: 21300000, guid: 569b0b9b728b15748a6c1d0415d281c9, type: 3}
+  - {fileID: 21300000, guid: c79491ebd568b894ba688c07429e4bc6, type: 3}
+  - {fileID: 21300000, guid: 5c45fe5c49eee8a4696540a2a79fb85c, type: 3}
+  - {fileID: 21300000, guid: fef7327efb956654cbeb10a86c78f153, type: 3}
+  - {fileID: 21300000, guid: 57c022df4f656aa42a874306f53e8a0e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - big-crate
+  - house
+  - rock
+  - skulls
+  - block
+  - sign
+  - sign_glow
+  - bush
+  - tree
+  - shrooms
+  - crate
+  - block-big
+  - face-block
+  m_Tag: PropsAtlas
+  m_IsVariant: 0

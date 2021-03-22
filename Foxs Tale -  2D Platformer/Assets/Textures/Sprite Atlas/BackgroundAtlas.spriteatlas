@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BackgroundAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 773394da662562243af792d615f6d4ab, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 034ddfc19a7aade46b85425cc29ff9fe, type: 3}
+  - {fileID: 21300000, guid: 9d541ad375405764cb1cbb0f66786d82, type: 3}
+  - {fileID: 21300000, guid: 01b245f5070a56e40ac96c7324201ef4, type: 3}
+  - {fileID: 21300000, guid: 8fc817875ad56904d9c5b04033a44ebf, type: 3}
+  - {fileID: 21300000, guid: 85a1ddf8aed626246ac1a542aca6b30f, type: 3}
+  - {fileID: 21300000, guid: 7a179b9dbadafd44dbf9100434e85620, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mountain
+  - middle
+  - mountains
+  - dusk
+  - back
+  - mikhail-selnihin-full-night-out-x4
+  m_Tag: BackgroundAtlas
+  m_IsVariant: 0
